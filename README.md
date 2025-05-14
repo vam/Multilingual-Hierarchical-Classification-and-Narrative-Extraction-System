@@ -1,6 +1,6 @@
 # Multilingual-Hierarchical-Classification-and-Narrative-Extraction-System
 
-# How to Execute the codes
+How to Execute the codes
 
 All code files(Task_1.ipynb, Task_2.ipynb, Task_3.ipynb) has to be executed in Google colab.
 
